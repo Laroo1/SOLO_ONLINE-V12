@@ -7,9 +7,9 @@
     "start": "node smsm.js"
   },
   "dependencies": {
-    "discord.js": "^13.2.0",
+    "discord.js": "11.4.2",
     "express": "^4.17.1",
-    "ytdl-core": "^4.9.1"
+    "ytdl-core": "^0.29.0"
   },
   "engines": {
     "node": "8.x"
