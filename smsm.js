@@ -119,537 +119,6 @@ const smsm117 = new Discord.Client();
 const smsm118 = new Discord.Client();
 const smsm119 = new Discord.Client();
 const smsm120 = new Discord.Client();
-
-////////////////////////////////////////////// bas id voice dane 
-
-///////////////////
-smsm.on("ready", () => {
-    var join = smsm.channels.get("876852169666613258"); /// id voice
-    if (join) join.join();
-  });
-///////////////////
-smsm2.on("ready", () => {
-    var join = smsm2.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-///////////////////
-smsm3.on("ready", () => {
-    var join = smsm3.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-///////////////////
-smsm4.on("ready", () => {
-    var join = smsm4.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-///////////////////
-smsm5.on("ready", () => {
-    var join = smsm5.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm6.on("ready", () => {
-    var join = smsm6.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm7.on("ready", () => {
-    var join = smsm7.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm8.on("ready", () => {
-    var join = smsm8.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm9.on("ready", () => {
-    var join = smsm9.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm10.on("ready", () => {
-    var join = smsm10.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm11.on("ready", () => {
-    var join = smsm11.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm12.on("ready", () => {
-    var join = smsm12.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm13.on("ready", () => {
-    var join = smsm13.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm14.on("ready", () => {
-    var join = smsm14.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm15.on("ready", () => {
-    var join = smsm15.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm16.on("ready", () => {
-    var join = smsm16.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm17.on("ready", () => {
-    var join = smsm17.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm18.on("ready", () => {
-    var join = smsm18.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm19.on("ready", () => {
-    var join = smsm19.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm20.on("ready", () => {
-    var join = smsm20.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm21.on("ready", () => {
-    var join = smsm21.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm22.on("ready", () => {
-    var join = smsm22.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm23.on("ready", () => {
-    var join = smsm23.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm24.on("ready", () => {
-    var join = smsm24.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm25.on("ready", () => {
-    var join = smsm25.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm26.on("ready", () => {
-    var join = smsm26.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm27.on("ready", () => {
-    var join = smsm27.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm28.on("ready", () => {
-    var join = smsm28.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm29.on("ready", () => {
-    var join = smsm29.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm30.on("ready", () => {
-    var join = smsm30.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm31.on("ready", () => {
-    var join = smsm31.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm32.on("ready", () => {
-    var join = smsm32.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm33.on("ready", () => {
-    var join = smsm33.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm34.on("ready", () => {
-    var join = smsm34.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm35.on("ready", () => {
-    var join = smsm35.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm36.on("ready", () => {
-    var join = smsm36.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm37.on("ready", () => {
-    var join = smsm37.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm38.on("ready", () => {
-    var join = smsm38.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm39.on("ready", () => {
-    var join = smsm39.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm40.on("ready", () => {
-    var join = smsm40.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm41.on("ready", () => {
-    var join = smsm41.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm42.on("ready", () => {
-    var join = smsm42.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm43.on("ready", () => {
-    var join = smsm43.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm44.on("ready", () => {
-    var join = smsm44.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm45.on("ready", () => {
-    var join = smsm45.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm46.on("ready", () => {
-    var join = smsm46.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm47.on("ready", () => {
-    var join = smsm47.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm48.on("ready", () => {
-    var join = smsm48.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm49.on("ready", () => {
-    var join = smsm49.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm50.on("ready", () => {
-    var join = smsm50.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm51.on("ready", () => {
-    var join = smsm51.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm52.on("ready", () => {
-    var join = smsm52.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm53.on("ready", () => {
-    var join = smsm53.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm54.on("ready", () => {
-    var join = smsm54.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm55.on("ready", () => {
-    var join = smsm55.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm56.on("ready", () => {
-    var join = smsm56.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm57.on("ready", () => {
-    var join = smsm57.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm58.on("ready", () => {
-    var join = smsm58.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm59.on("ready", () => {
-    var join = smsm59.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm60.on("ready", () => {
-    var join = smsm60.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm61.on("ready", () => {
-    var join = smsm61.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm62.on("ready", () => {
-    var join = smsm62.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm63.on("ready", () => {
-    var join = smsm63.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm64.on("ready", () => {
-    var join = smsm64.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm65.on("ready", () => {
-    var join = smsm65.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm66.on("ready", () => {
-    var join = smsm66.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm67.on("ready", () => {
-    var join = smsm67.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm68.on("ready", () => {
-    var join = smsm68.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm69.on("ready", () => {
-    var join = smsm69.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm70.on("ready", () => {
-    var join = smsm70.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm71.on("ready", () => {
-    var join = smsm71.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm72.on("ready", () => {
-    var join = smsm72.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm73.on("ready", () => {
-    var join = smsm73.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm74.on("ready", () => {
-    var join = smsm74.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm75.on("ready", () => {
-    var join = smsm75.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm76.on("ready", () => {
-    var join = smsm76.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm77.on("ready", () => {
-    var join = smsm77.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm78.on("ready", () => {
-    var join = smsm78.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm79.on("ready", () => {
-    var join = smsm79.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm80.on("ready", () => {
-    var join = smsm80.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm81.on("ready", () => {
-    var join = smsm81.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-smsm82.on("ready", () => {
-    var join = smsm82.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
-
-//////////////////
-smsm83.on("ready", () => {
-    var join = smsm83.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm84.on("ready", () => {
-    var join = smsm84.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm85.on("ready", () => {
-    var join = smsm85.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm86.on("ready", () => {
-    var join = smsm86.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm87.on("ready", () => {
-    var join = smsm87.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm88.on("ready", () => {
-    var join = smsm88.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm89.on("ready", () => {
-    var join = smsm89.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm90.on("ready", () => {
-    var join = smsm90.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm91.on("ready", () => {
-    var join = smsm91.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm92.on("ready", () => {
-    var join = smsm92.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm93.on("ready", () => {
-    var join = smsm93.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm94.on("ready", () => {
-    var join = smsm94.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm95.on("ready", () => {
-    var join = smsm95.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm96.on("ready", () => {
-    var join = smsm96.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm97.on("ready", () => {
-    var join = smsm97.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm98.on("ready", () => {
-    var join = smsm98.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-//////////////////
-smsm99.on("ready", () => {
-    var join = smsm99.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-
-/////////////////////
-smsm100.on("ready", () => {
-    var join = smsm100.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm101.on("ready", () => {
-    var join = smsm101.channels.get(""); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm102.on("ready", () => {
-    var join = smsm102.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm103.on("ready", () => {
-    var join = smsm103.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm104.on("ready", () => {
-    var join = smsm104.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm105.on("ready", () => {
-    var join = smsm105.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm106.on("ready", () => {
-    var join = smsm106.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm107.on("ready", () => {
-    var join = smsm107.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm108.on("ready", () => {
-    var join = smsm108.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm109.on("ready", () => {
-    var join = smsm109.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm110.on("ready", () => {
-    var join = smsm110.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm111.on("ready", () => {
-    var join = smsm111.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm112.on("ready", () => {
-    var join = smsm112.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm113.on("ready", () => {
-    var join = smsm113.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm114.on("ready", () => {
-    var join = smsm114.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm115.on("ready", () => {
-    var join = smsm115.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm116.on("ready", () => {
-    var join = smsm116.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm117.on("ready", () => {
-    var join = smsm117.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm118.on("ready", () => {
-    var join = smsm118.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm119.on("ready", () => {
-    var join = smsm119.channels.get("id voice"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-smsm120.on("ready", () => {
-    var join = smsm120.channels.get("876852169666613258"); /// id voice
-    if (join) join.join();
-  });
-/////////////////////
-
-
 ////////Ba heach shewayak daskary xware maka////////
 
 smsm.on("ready", () => {
@@ -658,7 +127,7 @@ smsm.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -677,7 +146,7 @@ smsm2.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -696,7 +165,7 @@ smsm3.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -715,7 +184,7 @@ smsm4.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -734,7 +203,7 @@ smsm5.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -753,7 +222,7 @@ smsm6.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -772,7 +241,7 @@ smsm7.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -791,7 +260,7 @@ smsm8.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -810,7 +279,7 @@ smsm9.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -829,7 +298,7 @@ smsm10.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -848,7 +317,7 @@ smsm11.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -867,7 +336,7 @@ smsm12.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -886,7 +355,7 @@ smsm13.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -905,7 +374,7 @@ smsm14.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -924,7 +393,7 @@ smsm15.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -943,7 +412,7 @@ smsm16.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -962,7 +431,7 @@ smsm17.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -981,7 +450,7 @@ smsm18.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1000,7 +469,7 @@ smsm19.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1019,7 +488,7 @@ smsm20.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1038,7 +507,7 @@ smsm21.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1057,7 +526,7 @@ smsm22.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1076,7 +545,7 @@ smsm23.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1095,7 +564,7 @@ smsm24.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1114,7 +583,7 @@ smsm25.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1133,7 +602,7 @@ smsm26.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1152,7 +621,7 @@ smsm27.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1171,7 +640,7 @@ smsm28.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1190,7 +659,7 @@ smsm29.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1209,7 +678,7 @@ smsm30.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1228,7 +697,7 @@ smsm31.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1247,7 +716,7 @@ smsm32.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1266,7 +735,7 @@ smsm33.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1285,7 +754,7 @@ smsm34.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1304,7 +773,7 @@ smsm35.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1323,7 +792,7 @@ smsm36.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1342,7 +811,7 @@ smsm37.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1361,7 +830,7 @@ smsm38.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1380,7 +849,7 @@ smsm39.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1399,7 +868,7 @@ smsm40.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1418,7 +887,7 @@ smsm41.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1437,7 +906,7 @@ smsm42.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1456,7 +925,7 @@ smsm43.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1475,7 +944,7 @@ smsm44.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1494,7 +963,7 @@ smsm45.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1513,7 +982,7 @@ smsm46.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1532,7 +1001,7 @@ smsm47.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1551,7 +1020,7 @@ smsm48.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1570,7 +1039,7 @@ smsm49.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1589,7 +1058,7 @@ smsm50.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1608,7 +1077,7 @@ smsm51.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1627,7 +1096,7 @@ smsm52.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1646,7 +1115,7 @@ smsm53.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1665,7 +1134,7 @@ smsm54.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1684,7 +1153,7 @@ smsm55.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1703,7 +1172,7 @@ smsm56.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1722,7 +1191,7 @@ smsm57.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1741,7 +1210,7 @@ smsm58.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1760,7 +1229,7 @@ smsm59.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1779,7 +1248,7 @@ smsm60.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1798,7 +1267,7 @@ smsm61.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1817,7 +1286,7 @@ smsm62.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1836,7 +1305,7 @@ smsm63.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1855,7 +1324,7 @@ smsm64.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1874,7 +1343,7 @@ smsm65.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1893,7 +1362,7 @@ smsm66.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1912,7 +1381,7 @@ smsm67.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1931,7 +1400,7 @@ smsm68.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1950,7 +1419,7 @@ smsm69.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1969,7 +1438,7 @@ smsm70.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -1988,7 +1457,7 @@ smsm71.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2007,7 +1476,7 @@ smsm72.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2026,7 +1495,7 @@ smsm73.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2045,7 +1514,7 @@ smsm74.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2064,7 +1533,7 @@ smsm75.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2083,7 +1552,7 @@ smsm76.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2121,7 +1590,7 @@ smsm78.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2140,7 +1609,7 @@ smsm79.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2159,7 +1628,7 @@ smsm80.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2178,7 +1647,7 @@ smsm81.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2197,7 +1666,7 @@ smsm82.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2216,7 +1685,7 @@ smsm83.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2349,7 +1818,7 @@ smsm90.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2368,7 +1837,7 @@ smsm91.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2387,7 +1856,7 @@ smsm92.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2406,7 +1875,7 @@ smsm93.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2425,7 +1894,7 @@ smsm94.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2444,7 +1913,7 @@ smsm95.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2463,7 +1932,7 @@ smsm96.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2482,7 +1951,7 @@ smsm97.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2501,7 +1970,7 @@ smsm98.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2520,7 +1989,7 @@ smsm99.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2539,7 +2008,7 @@ smsm100.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2558,7 +2027,7 @@ smsm101.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2577,7 +2046,7 @@ smsm102.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2596,7 +2065,7 @@ smsm103.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2615,7 +2084,7 @@ smsm104.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2634,7 +2103,7 @@ smsm105.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2653,7 +2122,7 @@ smsm106.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2672,7 +2141,7 @@ smsm107.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2691,7 +2160,7 @@ smsm108.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2710,7 +2179,7 @@ smsm109.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2729,7 +2198,7 @@ smsm110.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2748,7 +2217,7 @@ smsm111.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2767,7 +2236,7 @@ smsm112.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2786,7 +2255,7 @@ smsm113.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2805,7 +2274,7 @@ smsm114.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
