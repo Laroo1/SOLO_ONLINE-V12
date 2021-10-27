@@ -1,7 +1,5 @@
 {
-  "name": "smsm",
   "version": "2.1.0",
-  "description": "smsm",
   "main": "smsm.js",
   "scripts": {
     "start": "node smsm.js"
