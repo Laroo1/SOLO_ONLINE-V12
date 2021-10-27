@@ -2293,7 +2293,7 @@ smsm115.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2312,7 +2312,7 @@ smsm116.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2331,7 +2331,7 @@ smsm117.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2350,7 +2350,7 @@ smsm118.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2369,7 +2369,7 @@ smsm119.on("ready", () => {
   );
   let statuses = [
   
-  `BY SMSM`,
+  `By : SMSM`,
 
   ];
   setInterval(function() {
@@ -2388,7 +2388,7 @@ smsm120.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `By : SMSM`,
 
   ];
   setInterval(function() {

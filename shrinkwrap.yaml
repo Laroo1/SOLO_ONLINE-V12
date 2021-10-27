@@ -2,7 +2,7 @@ dependencies:
   discord.js: 11.4.2
   discord.js-v12: 12.5.3
   express: 4.17.1
-  ytdl-core: 0.29.7
+  ytdl-core: 4.9.1
 packages:
   /@discordjs/builders/0.6.0:
     dependencies:
@@ -355,10 +355,6 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
-  /html-entities/1.4.0:
-    dev: false
-    resolution:
-      integrity: sha512-8nxjcBcd8wovbeKx7h3wTji4e6+rhaVuPNpMqwWgnHh+N9ToqsCs6XztWRBPQ+UtzsoMAdKZtUENoVzU/EMtZA==
   /http-errors/1.7.2:
     dependencies:
       depd: 1.1.2
@@ -419,15 +415,15 @@ packages:
     dev: false
     resolution:
       integrity: sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==
-  /m3u8stream/0.6.5:
+  /m3u8stream/0.8.4:
     dependencies:
-      miniget: 1.7.2
+      miniget: 4.2.1
       sax: 1.2.4
     dev: false
     engines:
-      node: '>=6'
+      node: '>=10'
     resolution:
-      integrity: sha512-QZCzhcfUliZfsOboi68QkNcMejPKTEhxE+s1TApvHubDeR8ythm4ViWuYFqgUwZeoHe8q0nsPxOvA3lQvdSzyg==
+      integrity: sha512-sco80Db+30RvcaIOndenX6E6oQNgTiBKeJbFPc+yDXwPQIkryfboEbCvXPlBRq3mQTCVPQO93TDVlfRwqpD35w==
   /media-typer/0.3.0:
     dev: false
     engines:
@@ -465,12 +461,12 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==
-  /miniget/1.7.2:
+  /miniget/4.2.1:
     dev: false
     engines:
       node: '>=10'
     resolution:
-      integrity: sha512-USPNNK2bnHLOplX8BZVMehUkyQizS/DFpBdoH0TS+fM+hQoLNg9tWg4MeY9wE8gfY0pbzmx5UBEODujt3Lz8AA==
+      integrity: sha512-O/DduzDR6f+oDtVype9S/Qu5hhnx73EDYGyZKwU/qN82lehFZdfhoa4DT51SpsO+8epYrB3gcRmws56ROfTIoQ==
   /ms/2.0.0:
     dev: false
     resolution:
@@ -732,17 +728,16 @@ packages:
       utf-8-validate: ^5.0.2
     resolution:
       integrity: sha512-wBuoj1BDpC6ZQ1B7DWQBYVLphPWkm8i9Y0/3YdHjHKHiohOJ1ws+3OccDWtH+PoC9DZD5WOTrJvNbWvjS6JWaA==
-  /ytdl-core/0.29.7:
+  /ytdl-core/4.9.1:
     dependencies:
-      html-entities: 1.4.0
-      m3u8stream: 0.6.5
-      miniget: 1.7.2
+      m3u8stream: 0.8.4
+      miniget: 4.2.1
       sax: 1.2.4
     dev: false
     engines:
-      node: '>=6'
+      node: '>=10'
     resolution:
-      integrity: sha512-mqPuZ1UyspT84lyV1FSU1UAoiQ4H5j52ba3sC1LC43OmL8qNaDIRCGffGlpiakQrc69qsplNWsWEZUF+J5bhJA==
+      integrity: sha512-6Jbp5RDhUEozlaJQAR+l8oV8AHsx3WUXxSyPxzE6wOIAaLql7Hjiy0ZM58wZoyj1YEenlEPjEqcJIjKYKxvHtQ==
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
@@ -750,4 +745,4 @@ specifiers:
   discord.js: 11.4.2
   discord.js-v12: ^12.5.3
   express: ^4.17.1
-  ytdl-core: ^0.29.0
+  ytdl-core: ^4.9.1
