@@ -1,4 +1,4 @@
-const Discord = require("discord.js"); 
+npm install d
 const smsm = new Discord.Client();
 const smsm2 = new Discord.Client();
 const smsm3 = new Discord.Client();
