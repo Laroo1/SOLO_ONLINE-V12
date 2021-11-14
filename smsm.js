@@ -1,118 +1,118 @@
 const Discord = require("discord.js"); 
-const smsm = new Discord.Client();
-const smsm2 = new Discord.Client();
-const smsm3 = new Discord.Client();
-const smsm4 = new Discord.Client();
-const smsm5 = new Discord.Client();
-const smsm6 = new Discord.Client();
-const smsm7 = new Discord.Client();
-const smsm8 = new Discord.Client();
-const smsm9 = new Discord.Client();
-const smsm10 = new Discord.Client();
-const smsm11 = new Discord.Client();
-const smsm12 = new Discord.Client();
-const smsm13 = new Discord.Client();
-const smsm14 = new Discord.Client();
-const smsm15 = new Discord.Client();
-const smsm16 = new Discord.Client();
-const smsm17 = new Discord.Client();
-const smsm18 = new Discord.Client();
-const smsm19 = new Discord.Client();
-const smsm20 = new Discord.Client();
-const smsm21 = new Discord.Client();
-const smsm22 = new Discord.Client();
-const smsm23 = new Discord.Client();
-const smsm24 = new Discord.Client();
-const smsm25 = new Discord.Client();
-const smsm26 = new Discord.Client();
-const smsm27 = new Discord.Client();
-const smsm28 = new Discord.Client();
-const smsm29 = new Discord.Client();
-const smsm30 = new Discord.Client();
-const smsm31 = new Discord.Client();
-const smsm32 = new Discord.Client();
-const smsm33 = new Discord.Client();
-const smsm34 = new Discord.Client();
-const smsm35 = new Discord.Client();
-const smsm36 = new Discord.Client();
-const smsm37 = new Discord.Client();
-const smsm38 = new Discord.Client();
-const smsm39 = new Discord.Client();
-const smsm40 = new Discord.Client();
-const smsm41 = new Discord.Client();
-const smsm42 = new Discord.Client();
-const smsm43 = new Discord.Client();
-const smsm44 = new Discord.Client();
-const smsm45 = new Discord.Client();
-const smsm46 = new Discord.Client();
-const smsm47 = new Discord.Client();
-const smsm48 = new Discord.Client();
-const smsm49 = new Discord.Client();
-const smsm50 = new Discord.Client();
-const smsm51 = new Discord.Client();
-const smsm52 = new Discord.Client();
-const smsm53 = new Discord.Client();
-const smsm54 = new Discord.Client();
-const smsm55 = new Discord.Client();
-const smsm56 = new Discord.Client();
-const smsm57 = new Discord.Client();
-const smsm58 = new Discord.Client();
-const smsm59 = new Discord.Client();
-const smsm60 = new Discord.Client();
-const smsm61 = new Discord.Client();
-const smsm62 = new Discord.Client();
-const smsm63 = new Discord.Client();
-const smsm64 = new Discord.Client();
-const smsm65 = new Discord.Client();
-const smsm66 = new Discord.Client();
-const smsm67 = new Discord.Client();
-const smsm68 = new Discord.Client();
-const smsm69 = new Discord.Client();
-const smsm70 = new Discord.Client();
-const smsm71 = new Discord.Client();
-const smsm72 = new Discord.Client();
-const smsm73 = new Discord.Client();
-const smsm74 = new Discord.Client();
-const smsm75 = new Discord.Client();
-const smsm76 = new Discord.Client();
-const smsm77 = new Discord.Client();
-const smsm78 = new Discord.Client();
-const smsm79 = new Discord.Client();
-const smsm80 = new Discord.Client();
-const smsm81 = new Discord.Client();
-const smsm82 = new Discord.Client();
-const smsm83 = new Discord.Client();
-const smsm84 = new Discord.Client();
-const smsm85 = new Discord.Client();
-const smsm86 = new Discord.Client();
-const smsm87 = new Discord.Client();
-const smsm88 = new Discord.Client();
-const smsm89 = new Discord.Client();
-const smsm90 = new Discord.Client();
-const smsm91 = new Discord.Client();
-const smsm92 = new Discord.Client();
-const smsm93 = new Discord.Client();
-const smsm94 = new Discord.Client();
-const smsm95 = new Discord.Client();
-const smsm96 = new Discord.Client();
-const smsm97 = new Discord.Client();
-const smsm98 = new Discord.Client();
-const smsm99 = new Discord.Client();
-const smsm100 = new Discord.Client();
+const solo = new Discord.Client();
+const solo2 = new Discord.Client();
+const solo3 = new Discord.Client();
+const solo4 = new Discord.Client();
+const solo5 = new Discord.Client();
+const solo6 = new Discord.Client();
+const solo7 = new Discord.Client();
+const solo8 = new Discord.Client();
+const solo9 = new Discord.Client();
+const solo10 = new Discord.Client();
+const solo11 = new Discord.Client();
+const solo12 = new Discord.Client();
+const solo13 = new Discord.Client();
+const solo14 = new Discord.Client();
+const solo15 = new Discord.Client();
+const solo16 = new Discord.Client();
+const solo17 = new Discord.Client();
+const solo18 = new Discord.Client();
+const solo19 = new Discord.Client();
+const solo20 = new Discord.Client();
+const solo21 = new Discord.Client();
+const solo22 = new Discord.Client();
+const solo23 = new Discord.Client();
+const solo24 = new Discord.Client();
+const solo25 = new Discord.Client();
+const solo26 = new Discord.Client();
+const solo27 = new Discord.Client();
+const solo28 = new Discord.Client();
+const solo29 = new Discord.Client();
+const solo30 = new Discord.Client();
+const solo31 = new Discord.Client();
+const solo32 = new Discord.Client();
+const solo33 = new Discord.Client();
+const solo34 = new Discord.Client();
+const solo35 = new Discord.Client();
+const solo36 = new Discord.Client();
+const solo37 = new Discord.Client();
+const solo38 = new Discord.Client();
+const solo39 = new Discord.Client();
+const solo40 = new Discord.Client();
+const solo41 = new Discord.Client();
+const solo42 = new Discord.Client();
+const solo43 = new Discord.Client();
+const solo44 = new Discord.Client();
+const solo45 = new Discord.Client();
+const solo46 = new Discord.Client();
+const solo47 = new Discord.Client();
+const solo48 = new Discord.Client();
+const solo49 = new Discord.Client();
+const solo50 = new Discord.Client();
+const solo51 = new Discord.Client();
+const solo52 = new Discord.Client();
+const solo53 = new Discord.Client();
+const solo54 = new Discord.Client();
+const solo55 = new Discord.Client();
+const solo56 = new Discord.Client();
+const solo57 = new Discord.Client();
+const solo58 = new Discord.Client();
+const solo59 = new Discord.Client();
+const solo60 = new Discord.Client();
+const solo61 = new Discord.Client();
+const solo62 = new Discord.Client();
+const solo63 = new Discord.Client();
+const solo64 = new Discord.Client();
+const solo65 = new Discord.Client();
+const solo66 = new Discord.Client();
+const solo67 = new Discord.Client();
+const solo68 = new Discord.Client();
+const solo69 = new Discord.Client();
+const solo70 = new Discord.Client();
+const solo71 = new Discord.Client();
+const solo72 = new Discord.Client();
+const solo73 = new Discord.Client();
+const solo74 = new Discord.Client();
+const solo75 = new Discord.Client();
+const solo76 = new Discord.Client();
+const solo77 = new Discord.Client();
+const solo78 = new Discord.Client();
+const solo79 = new Discord.Client();
+const solo80 = new Discord.Client();
+const solo81 = new Discord.Client();
+const solo82 = new Discord.Client();
+const solo83 = new Discord.Client();
+const solo84 = new Discord.Client();
+const solo85 = new Discord.Client();
+const solo86 = new Discord.Client();
+const solo87 = new Discord.Client();
+const solo88 = new Discord.Client();
+const solo89 = new Discord.Client();
+const solo90 = new Discord.Client();
+const solo91 = new Discord.Client();
+const solo92 = new Discord.Client();
+const solo93 = new Discord.Client();
+const solo94 = new Discord.Client();
+const solo95 = new Discord.Client();
+const solo96 = new Discord.Client();
+const solo97 = new Discord.Client();
+const solo98 = new Discord.Client();
+const solo99 = new Discord.Client();
+const solo100 = new Discord.Client();
 ////////Ba heach shewayak daskary xware maka////////
 
-smsm.on("ready", () => {
+solo.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm.user.setActivity(STREAMING, {      
+    solo.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -120,18 +120,18 @@ smsm.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm2.on("ready", () => {
+solo2.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm2.user.setActivity(STREAMING, {      
+    solo2.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -139,18 +139,18 @@ smsm2.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm3.on("ready", () => {
+solo3.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm3.user.setActivity(STREAMING, {      
+    solo3.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -158,18 +158,18 @@ smsm3.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm4.on("ready", () => {
+solo4.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm4.user.setActivity(STREAMING, {      
+    solo4.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -177,18 +177,18 @@ smsm4.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm5.on("ready", () => {
+solo5.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm5.user.setActivity(STREAMING, {      
+    solo5.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -196,18 +196,18 @@ smsm5.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm6.on("ready", () => {
+solo6.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm6.user.setActivity(STREAMING, {      
+    solo6.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -215,18 +215,18 @@ smsm6.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm7.on("ready", () => {
+solo7.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm7.user.setActivity(STREAMING, {      
+    solo7.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -234,18 +234,18 @@ smsm7.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm8.on("ready", () => {
+solo8.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm8.user.setActivity(STREAMING, {      
+    solo8.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -253,18 +253,18 @@ smsm8.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm9.on("ready", () => {
+solo9.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm9.user.setActivity(STREAMING, {      
+    solo9.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -272,18 +272,18 @@ smsm9.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm10.on("ready", () => {
+solo10.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm10.user.setActivity(STREAMING, {      
+    solo10.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -291,18 +291,18 @@ smsm10.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm11.on("ready", () => {
+solo11.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm11.user.setActivity(STREAMING, {      
+    solo11.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -310,18 +310,18 @@ smsm11.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm12.on("ready", () => {
+solo12.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm12.user.setActivity(STREAMING, {      
+    solo12.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -329,18 +329,18 @@ smsm12.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm13.on("ready", () => {
+solo13.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm13.user.setActivity(STREAMING, {      
+    solo13.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -348,18 +348,18 @@ smsm13.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm14.on("ready", () => {
+solo14.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm14.user.setActivity(STREAMING, {      
+    solo14.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -367,18 +367,18 @@ smsm14.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm15.on("ready", () => {
+solo15.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm15.user.setActivity(STREAMING, {      
+    solo15.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -386,18 +386,18 @@ smsm15.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm16.on("ready", () => {
+solo16.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm16.user.setActivity(STREAMING, {      
+    solo16.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -405,18 +405,18 @@ smsm16.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm17.on("ready", () => {
+solo17.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm17.user.setActivity(STREAMING, {      
+    solo17.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -424,18 +424,18 @@ smsm17.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm18.on("ready", () => {
+solo18.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm18.user.setActivity(STREAMING, {      
+    solo18.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -443,18 +443,18 @@ smsm18.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm19.on("ready", () => {
+solo19.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm19.user.setActivity(STREAMING, {      
+    solo19.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -462,18 +462,18 @@ smsm19.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm20.on("ready", () => {
+solo20.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm20.user.setActivity(STREAMING, {      
+    solo20.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -481,18 +481,18 @@ smsm20.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm21.on("ready", () => {
+solo21.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm21.user.setActivity(STREAMING, {      
+    solo21.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -500,18 +500,18 @@ smsm21.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm22.on("ready", () => {
+solo22.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm22.user.setActivity(STREAMING, {      
+    solo22.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -519,18 +519,18 @@ smsm22.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm23.on("ready", () => {
+solo23.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm23.user.setActivity(STREAMING, {      
+    solo23.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -538,18 +538,18 @@ smsm23.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm24.on("ready", () => {
+solo24.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm24.user.setActivity(STREAMING, {      
+    solo24.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -557,18 +557,18 @@ smsm24.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm25.on("ready", () => {
+solo25.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm25.user.setActivity(STREAMING, {      
+    solo25.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -576,18 +576,18 @@ smsm25.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm26.on("ready", () => {
+solo26.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm26.user.setActivity(STREAMING, {      
+    solo26.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -595,18 +595,18 @@ smsm26.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm27.on("ready", () => {
+solo27.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm27.user.setActivity(STREAMING, {      
+    solo27.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -614,18 +614,18 @@ smsm27.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm28.on("ready", () => {
+solo28.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm28.user.setActivity(STREAMING, {      
+    solo28.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -633,18 +633,18 @@ smsm28.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm29.on("ready", () => {
+solo29.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm29.user.setActivity(STREAMING, {      
+    solo29.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -652,18 +652,18 @@ smsm29.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm30.on("ready", () => {
+solo30.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm30.user.setActivity(STREAMING, {      
+    solo30.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -671,18 +671,18 @@ smsm30.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm31.on("ready", () => {
+solo31.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm31.user.setActivity(STREAMING, {      
+    solo31.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -690,18 +690,18 @@ smsm31.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm32.on("ready", () => {
+solo32.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm32.user.setActivity(STREAMING, {      
+    solo32.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -709,18 +709,18 @@ smsm32.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm33.on("ready", () => {
+solo33.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm33.user.setActivity(STREAMING, {      
+    solo33.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -728,18 +728,18 @@ smsm33.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm34.on("ready", () => {
+solo34.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm34.user.setActivity(STREAMING, {      
+    solo34.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -747,18 +747,18 @@ smsm34.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm35.on("ready", () => {
+solo35.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm35.user.setActivity(STREAMING, {      
+    solo35.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -766,18 +766,18 @@ smsm35.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm36.on("ready", () => {
+solo36.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm36.user.setActivity(STREAMING, {      
+    solo36.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -785,18 +785,18 @@ smsm36.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm37.on("ready", () => {
+solo37.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm37.user.setActivity(STREAMING, {      
+    solo37.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -804,18 +804,18 @@ smsm37.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm38.on("ready", () => {
+solo38.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm38.user.setActivity(STREAMING, {      
+    solo38.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -823,18 +823,18 @@ smsm38.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm39.on("ready", () => {
+solo39.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm39.user.setActivity(STREAMING, {      
+    solo39.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -842,18 +842,18 @@ smsm39.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm40.on("ready", () => {
+solo40.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm40.user.setActivity(STREAMING, {      
+    solo40.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -861,18 +861,18 @@ smsm40.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm41.on("ready", () => {
+solo41.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm41.user.setActivity(STREAMING, {      
+    solo41.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -880,18 +880,18 @@ smsm41.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm42.on("ready", () => {
+solo42.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm42.user.setActivity(STREAMING, {      
+    solo42.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -899,18 +899,18 @@ smsm42.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm43.on("ready", () => {
+solo43.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm43.user.setActivity(STREAMING, {      
+    solo43.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -918,18 +918,18 @@ smsm43.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm44.on("ready", () => {
+solo44.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm44.user.setActivity(STREAMING, {      
+    solo44.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -937,18 +937,18 @@ smsm44.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm45.on("ready", () => {
+solo45.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm45.user.setActivity(STREAMING, {      
+    solo45.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -956,18 +956,18 @@ smsm45.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm46.on("ready", () => {
+solo46.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm46.user.setActivity(STREAMING, {      
+    solo46.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -975,18 +975,18 @@ smsm46.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm47.on("ready", () => {
+solo47.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm47.user.setActivity(STREAMING, {      
+    solo47.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -994,18 +994,18 @@ smsm47.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm48.on("ready", () => {
+solo48.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm48.user.setActivity(STREAMING, {      
+    solo48.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1013,18 +1013,18 @@ smsm48.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm49.on("ready", () => {
+solo49.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm49.user.setActivity(STREAMING, {      
+    solo49.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1032,18 +1032,18 @@ smsm49.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm50.on("ready", () => {
+solo50.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm50.user.setActivity(STREAMING, {      
+    solo50.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1051,18 +1051,18 @@ smsm50.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm51.on("ready", () => {
+solo51.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm51.user.setActivity(STREAMING, {      
+    solo51.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1070,18 +1070,18 @@ smsm51.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm52.on("ready", () => {
+solo52.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm52.user.setActivity(STREAMING, {      
+    solo52.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1089,18 +1089,18 @@ smsm52.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm53.on("ready", () => {
+solo53.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm53.user.setActivity(STREAMING, {      
+    solo53.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1108,18 +1108,18 @@ smsm53.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm54.on("ready", () => {
+solo54.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm54.user.setActivity(STREAMING, {      
+    solo54.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1127,18 +1127,18 @@ smsm54.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm55.on("ready", () => {
+solo55.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm55.user.setActivity(STREAMING, {      
+    solo55.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1146,18 +1146,18 @@ smsm55.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm56.on("ready", () => {
+solo56.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm56.user.setActivity(STREAMING, {      
+    solo56.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1165,18 +1165,18 @@ smsm56.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm57.on("ready", () => {
+solo57.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm57.user.setActivity(STREAMING, {      
+    solo57.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1184,18 +1184,18 @@ smsm57.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm58.on("ready", () => {
+solo58.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm58.user.setActivity(STREAMING, {      
+    solo58.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1203,18 +1203,18 @@ smsm58.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm59.on("ready", () => {
+solo59.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm59.user.setActivity(STREAMING, {      
+    solo59.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1222,18 +1222,18 @@ smsm59.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm60.on("ready", () => {
+solo60.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm60.user.setActivity(STREAMING, {      
+    solo60.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1241,18 +1241,18 @@ smsm60.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm61.on("ready", () => {
+solo61.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm61.user.setActivity(STREAMING, {      
+    solo61.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1260,18 +1260,18 @@ smsm61.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm62.on("ready", () => {
+solo62.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm62.user.setActivity(STREAMING, {      
+    solo62.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1279,18 +1279,18 @@ smsm62.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm63.on("ready", () => {
+solo63.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm63.user.setActivity(STREAMING, {      
+    solo63.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1298,18 +1298,18 @@ smsm63.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm64.on("ready", () => {
+solo64.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm64.user.setActivity(STREAMING, {      
+    solo64.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1317,18 +1317,18 @@ smsm64.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm65.on("ready", () => {
+solo65.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm65.user.setActivity(STREAMING, {      
+    solo65.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1336,18 +1336,18 @@ smsm65.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm66.on("ready", () => {
+solo66.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm66.user.setActivity(STREAMING, {      
+    solo66.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1355,18 +1355,18 @@ smsm66.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm67.on("ready", () => {
+solo67.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm67.user.setActivity(STREAMING, {      
+    solo67.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1374,18 +1374,18 @@ smsm67.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm68.on("ready", () => {
+solo68.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm68.user.setActivity(STREAMING, {      
+    solo68.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1393,18 +1393,18 @@ smsm68.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm69.on("ready", () => {
+solo69.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm69.user.setActivity(STREAMING, {      
+    solo69.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1412,18 +1412,18 @@ smsm69.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm70.on("ready", () => {
+solo70.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm70.user.setActivity(STREAMING, {      
+    solo70.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1431,18 +1431,18 @@ smsm70.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm71.on("ready", () => {
+solo71.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm71.user.setActivity(STREAMING, {      
+    solo71.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1450,18 +1450,18 @@ smsm71.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm72.on("ready", () => {
+solo72.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm72.user.setActivity(STREAMING, {      
+    solo72.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1469,18 +1469,18 @@ smsm72.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm73.on("ready", () => {
+solo73.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm73.user.setActivity(STREAMING, {      
+    solo73.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1488,18 +1488,18 @@ smsm73.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm74.on("ready", () => {
+solo74.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm74.user.setActivity(STREAMING, {      
+    solo74.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1507,18 +1507,18 @@ smsm74.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm75.on("ready", () => {
+solo75.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm75.user.setActivity(STREAMING, {      
+    solo75.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1526,18 +1526,18 @@ smsm75.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm76.on("ready", () => {
+solo76.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm76.user.setActivity(STREAMING, {      
+    solo76.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1545,18 +1545,18 @@ smsm76.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm77.on("ready", () => {
+solo77.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  ``,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm77.user.setActivity(STREAMING, {      
+    solo77.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1564,18 +1564,18 @@ smsm77.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm78.on("ready", () => {
+solo78.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm78.user.setActivity(STREAMING, {      
+    solo78.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1583,18 +1583,18 @@ smsm78.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm79.on("ready", () => {
+solo79.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm79.user.setActivity(STREAMING, {      
+    solo79.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1602,18 +1602,18 @@ smsm79.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm80.on("ready", () => {
+solo80.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm80.user.setActivity(STREAMING, {      
+    solo80.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1621,18 +1621,18 @@ smsm80.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm81.on("ready", () => {
+solo81.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm81.user.setActivity(STREAMING, {      
+    solo81.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1640,18 +1640,18 @@ smsm81.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm82.on("ready", () => {
+solo82.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm82.user.setActivity(STREAMING, {      
+    solo82.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1659,18 +1659,18 @@ smsm82.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm83.on("ready", () => {
+solo83.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm83.user.setActivity(STREAMING, {      
+    solo83.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1678,18 +1678,18 @@ smsm83.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm84.on("ready", () => {
+solo84.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  ``,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm84.user.setActivity(STREAMING, {      
+    solo84.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1697,18 +1697,18 @@ smsm84.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm85.on("ready", () => {
+solo85.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  ``,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm85.user.setActivity(STREAMING, {      
+    solo85.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1716,18 +1716,18 @@ smsm85.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm86.on("ready", () => {
+solo86.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  ``,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm86.user.setActivity(STREAMING, {      
+    solo86.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1735,18 +1735,18 @@ smsm86.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm87.on("ready", () => {
+solo87.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  ``,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm87.user.setActivity(STREAMING, {      
+    solo87.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1754,18 +1754,18 @@ smsm87.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm88.on("ready", () => {
+solo88.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  ``,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm88.user.setActivity(STREAMING, {      
+    solo88.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1773,18 +1773,18 @@ smsm88.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm89.on("ready", () => {
+solo89.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  ``,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm89.user.setActivity(STREAMING, {      
+    solo89.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1792,18 +1792,18 @@ smsm89.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm90.on("ready", () => {
+solo90.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm90.user.setActivity(STREAMING, {      
+    solo90.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1811,18 +1811,18 @@ smsm90.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm91.on("ready", () => {
+solo91.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm91.user.setActivity(STREAMING, {      
+    solo91.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1830,18 +1830,18 @@ smsm91.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm92.on("ready", () => {
+solo92.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm92.user.setActivity(STREAMING, {      
+    solo92.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1849,18 +1849,18 @@ smsm92.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm93.on("ready", () => {
+solo93.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm93.user.setActivity(STREAMING, {      
+    solo93.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1868,18 +1868,18 @@ smsm93.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm94.on("ready", () => {
+solo94.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm94.user.setActivity(STREAMING, {      
+    solo94.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1887,18 +1887,18 @@ smsm94.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm95.on("ready", () => {
+solo95.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm95.user.setActivity(STREAMING, {      
+    solo95.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1906,18 +1906,18 @@ smsm95.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm96.on("ready", () => {
+solo96.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm96.user.setActivity(STREAMING, {      
+    solo96.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1925,18 +1925,18 @@ smsm96.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm97.on("ready", () => {
+solo97.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm97.user.setActivity(STREAMING, {      
+    solo97.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1944,18 +1944,18 @@ smsm97.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm98.on("ready", () => {
+solo98.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm98.user.setActivity(STREAMING, {      
+    solo98.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1963,18 +1963,18 @@ smsm98.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm99.on("ready", () => {
+solo99.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm99.user.setActivity(STREAMING, {      
+    solo99.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1982,18 +1982,18 @@ smsm99.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm100.on("ready", () => {
+solo100.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `By : SMSM`,
+  `💚🌺اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ🌺💚`,
 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm100.user.setActivity(STREAMING, {      
+    solo100.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2001,104 +2001,104 @@ smsm100.on("ready", () => {
 });
 
 //////////////// token lera dabne/////////
-smsm.login("OTA5NDE1ODEyODE1ODA2NTI2.YZD-EA.MU-HEWN_Ym2KwiIhlncvduTFPn8");
-smsm2.login("");
-smsm3.login("");
-smsm4.login("");
-smsm5.login("");
-smsm6.login("");
-smsm7.login("");
-smsm8.login("");
-smsm9.login("");
-smsm10.login("");
-smsm11.login("");
-smsm12.login("");
-smsm13.login("");
-smsm14.login("");
-smsm15.login("");
-smsm16.login("");
-smsm17.login("");
-smsm18.login("");
-smsm19.login("");
-smsm20.login("");
-smsm21.login("");
-smsm22.login("");
-smsm23.login("");
-smsm24.login("");
-smsm25.login("");
-smsm26.login("");
-smsm27.login("");
-smsm28.login("");
-smsm29.login("");
-smsm30.login("");
-smsm31.login("");
-smsm32.login("");
-smsm33.login("");
-smsm34.login("");
-smsm35.login("");
-smsm36.login("");
-smsm37.login("");
-smsm38.login("");
-smsm39.login("");
-smsm40.login("");
-smsm41.login("");
-smsm42.login("");
-smsm43.login("");
-smsm44.login("");
-smsm45.login("");
-smsm46.login("");
-smsm47.login("");
-smsm48.login("");
-smsm49.login("");
-smsm50.login("");
-smsm51.login("");
-smsm52.login("");
-smsm53.login("");
-smsm54.login("");
-smsm55.login("");
-smsm56.login("");
-smsm57.login("");
-smsm58.login("");
-smsm59.login("");
-smsm60.login("");
-smsm61.login("");
-smsm62.login("");
-smsm63.login("");
-smsm64.login("");
-smsm65.login("");
-smsm66.login("");
-smsm67.login("");
-smsm68.login("");
-smsm69.login("");
-smsm70.login("");
-smsm71.login("");
-smsm72.login("");
-smsm73.login("");
-smsm74.login("");
-smsm75.login("");
-smsm76.login("");
-smsm77.login("");
-smsm78.login("");
-smsm79.login("");
-smsm80.login("");
-smsm81.login("");
-smsm82.login("");
-smsm83.login("");
-smsm84.login("");
-smsm85.login("");
-smsm86.login("");
-smsm87.login("");
-smsm88.login("");
-smsm89.login("");
-smsm90.login("");
-smsm91.login("");
-smsm92.login("");
-smsm93.login("");
-smsm94.login("");
-smsm95.login("");
-smsm96.login("");
-smsm97.login("");
-smsm98.login("");
-smsm99.login("");
-smsm100.login("");
+solo.login("OTA5NDE1ODEyODE1ODA2NTI2.YZD-EA.MU-HEWN_Ym2KwiIhlncvduTFPn8");
+solo2.login("");
+solo3.login("");
+solo4.login("");
+solo5.login("");
+solo6.login("");
+solo7.login("");
+solo8.login("");
+solo9.login("");
+solo10.login("");
+solo11.login("");
+solo12.login("");
+solo13.login("");
+solo14.login("");
+solo15.login("");
+solo16.login("");
+solo17.login("");
+solo18.login("");
+solo19.login("");
+solo20.login("");
+solo21.login("");
+solo22.login("");
+solo23.login("");
+solo24.login("");
+solo25.login("");
+solo26.login("");
+solo27.login("");
+solo28.login("");
+solo29.login("");
+solo30.login("");
+solo31.login("");
+solo32.login("");
+solo33.login("");
+solo34.login("");
+solo35.login("");
+solo36.login("");
+solo37.login("");
+solo38.login("");
+solo39.login("");
+solo40.login("");
+solo41.login("");
+solo42.login("");
+solo43.login("");
+solo44.login("");
+solo45.login("");
+solo46.login("");
+solo47.login("");
+solo48.login("");
+solo49.login("");
+solo50.login("");
+solo51.login("");
+solo52.login("");
+solo53.login("");
+solo54.login("");
+solo55.login("");
+solo56.login("");
+solo57.login("");
+solo58.login("");
+solo59.login("");
+solo60.login("");
+solo61.login("");
+solo62.login("");
+solo63.login("");
+solo64.login("");
+solo65.login("");
+solo66.login("");
+solo67.login("");
+solo68.login("");
+solo69.login("");
+solo70.login("");
+solo71.login("");
+solo72.login("");
+solo73.login("");
+solo74.login("");
+solo75.login("");
+solo76.login("");
+solo77.login("");
+solo78.login("");
+solo79.login("");
+solo80.login("");
+solo81.login("");
+solo82.login("");
+solo83.login("");
+solo84.login("");
+solo85.login("");
+solo86.login("");
+solo87.login("");
+solo88.login("");
+solo89.login("");
+solo90.login("");
+solo91.login("");
+solo92.login("");
+solo93.login("");
+solo94.login("");
+solo95.login("");
+solo96.login("");
+solo97.login("");
+solo98.login("");
+solo99.login("");
+solo100.login("");
 
