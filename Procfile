@@ -1,1 +1,1 @@
-worker: node smsm.js
+worker: node solo.js
