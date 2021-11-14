@@ -3,4 +3,4 @@
           //CREATED BY SOLO\\
        
           //LINK SERVER\\
-//  https://discord.gg/Wpa3xVQtUY  \\
+//  https://discord.gg/Wpa3xVQtUY  \\\
