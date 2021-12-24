@@ -2002,7 +2002,7 @@ solo100.on("ready", () => {
 
 //////////////// token lera dabne/////////
 solo.login("OTA5NDE1ODEyODE1ODA2NTI2.YZD-EA.MU-HEWN_Ym2KwiIhlncvduTFPn8");
-solo2.login("");
+solo2.login("OTIzOTgxNzA0MzY3MDU5MDA4.YcX74w.0wBUveCwNCT2XUv9rGLmwPe0EQg");
 solo3.login("");
 solo4.login("");
 solo5.login("");
